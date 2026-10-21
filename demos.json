@@ -1,0 +1,38 @@
+{
+  "lastUpdated": "2026-10-21T17:10:00Z",
+  "sourcesChecked": [
+    "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+  ],
+  "demos": [
+    {
+      "importedId": "auto-berlin-iran-platzderrepublik-2026",
+      "title": "Mahnwache für Menschenrechte im Iran",
+      "description": "Dauerhafte Mahnwache für Menschenrechte im Iran und eine Neubewertung der diplomatischen Beziehungen. Automatisch übernommen aus dem öffentlichen Register der Berliner Versammlungsbehörde.",
+      "category": "Frieden & Menschenrechte",
+      "emoji": "✊",
+      "city": "Berlin",
+      "lat": 52.5186,
+      "lng": 13.3762,
+      "locationName": "Platz der Republik 1, Berlin",
+      "date": "2026-10-21",
+      "time": "00:00",
+      "sourceName": "Berliner Versammlungsbehörde",
+      "sourceUrl": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "importedId": "auto-berlin-tierschutz-breitscheidplatz-2026",
+      "title": "Mahnwache gegen Massentierhaltung in kirchlicher Trägerschaft",
+      "description": "Dauerhafte Mahnwache für ein Ende der Massentierhaltung in kirchlichen Einrichtungen. Automatisch übernommen aus dem öffentlichen Register der Berliner Versammlungsbehörde.",
+      "category": "Tierschutz",
+      "emoji": "🐾",
+      "city": "Berlin",
+      "lat": 52.5049,
+      "lng": 13.3353,
+      "locationName": "Breitscheidplatz, Berlin",
+      "date": "2026-10-21",
+      "time": "00:00",
+      "sourceName": "Berliner Versammlungsbehörde",
+      "sourceUrl": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    }
+  ]
+}
